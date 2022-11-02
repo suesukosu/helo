@@ -20,7 +20,7 @@ int main()
       printf("\neskenar ucgen girdiniz");
      }
      else if(kenar1==kenar2 || kenar1==kenar3 || kenar3==kenar2)
-        printf("\ikizkenar ucgen girdiniz");
+        printf("\nikizkenar ucgen girdiniz");
      else
         printf("\ncesitkenar ucgen girdiniz");
 
